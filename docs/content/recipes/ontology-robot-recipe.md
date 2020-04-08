@@ -14,7 +14,7 @@
 
 The main purpose of this recipe is:
 
-> Building an application ontology from source ontologies using ROBOT via a sustainable dynamic pipeline to allow seamless integration of source ontology updates
+> Building an application ontology from source ontologies using ROBOT via a sustainable dynamic pipeline to allow seamless integration of source ontology updates. This will constitute a cornerstone for establishing and maintaining tailor made application ontologies that can be utilized for structuring and searching dedicated data sets.
 
 ### Competency questions
 
